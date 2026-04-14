@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+twilio
+python-multipart
+requests
+pandas
+sentence-transformers
+groq
